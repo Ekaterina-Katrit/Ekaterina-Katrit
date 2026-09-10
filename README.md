@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/cover.jpg" alt="Katrit — психология и эзотерика" width="600">
+  <img src="5842830616100016113.jpg" alt="Katrit — психология и эзотерика" width="600">
 </p>
 
 <h3 align="center">Все площадки для связи со мной — ниже по ссылкам, буду рада вас видеть.</h3>
