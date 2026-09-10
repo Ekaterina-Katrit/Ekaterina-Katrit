@@ -7,12 +7,12 @@
 
 <p align="center">
   <a href="https://t.me/psykatrit">
-    <img src="https://img.shields.io/badge/Telegram-4A5240?style=for-the-badge&logo=telegram&logoColor=EFE6D8" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-8A9A7B?style=for-the-badge&logo=telegram&logoColor=EFE6D8" alt="Telegram">
   </a>
   <a href="https://max.ru/join/3rPVrh8v1WW7IaysABuB-BxnGNlciMMauYAPHuW9vJg">
-    <img src="https://img.shields.io/badge/Макс-4A5240?style=for-the-badge&logoColor=EFE6D8" alt="Макс">
+    <img src="https://img.shields.io/badge/Макс-8A9A7B?style=for-the-badge&logoColor=EFE6D8" alt="Макс">
   </a>
   <a href="https://www.instagram.com/psy.katrit?igsi=MWYxYXd4NDdwaGt5bg">
-    <img src="https://img.shields.io/badge/Instagram-4A5240?style=for-the-badge&logo=instagram&logoColor=EFE6D8" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-8A9A7B?style=for-the-badge&logo=instagram&logoColor=EFE6D8" alt="Instagram">
   </a>
 </p>
